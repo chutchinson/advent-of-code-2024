@@ -11,7 +11,8 @@
         <Compile Include="Puzzles\**" />
         <Compile Include="Program.fs" />
 
-        <Content Include="Input/**" CopyToOutputDirectory="PreserveNewest" />
+        <Content Include="Input/**" 
+                 CopyToOutputDirectory="PreserveNewest" />
     </ItemGroup>
 
 </Project>
